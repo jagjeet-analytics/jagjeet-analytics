@@ -21,8 +21,9 @@ My focus is on turning complexity into clarity through thoughtful analysis.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagjeet-singh3110/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:jagjeetsingh.analytics@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jagjeetsingh.analytics@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4B4EFC?logo=github&logoColor=white)](https://github.com/jagjeet-analytics)
+
 
 
 ## 🛠 Tech Stack
