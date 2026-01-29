@@ -6,6 +6,7 @@
   />
 </p>
 
+
 ## Hello, I'm Jagjeet Singh 👋
 **Breaking data down until it starts making sense**
 <img align="right" alt="Coding" width="430" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
