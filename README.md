@@ -2,7 +2,7 @@
   <img 
     src="https://media1.tenor.com/m/-XBRBRUMWusAAAAC/purple-flow.gif"
     width="1200"
-    height="320"
+    height="300"
   />
 </p>
 
